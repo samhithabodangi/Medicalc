@@ -118,13 +118,11 @@ export default function LegalScreen() {
               <Text style={styles.hippa}> Price Transparency</Text>
             </TouchableOpacity></View>
 
-              <Text style={styles.title} ref={section4Ref}>Affordable Care Act`</Text>
+              <Text style={styles.title} ref={section4Ref}>Affordable Care Act</Text>
               <HorizontalRule />
 
               <Text style={styles.title} ref={section5Ref}>No Surprises Act</Text>
               <HorizontalRule />
-
-              <Text style={styles.text}>The No Surprises Act </Text>
 
               <Text>-------------------------------------------</Text>
               <Text style={styles.text}>Remember, if you believe that any of your rights are being violated, you have the right to 

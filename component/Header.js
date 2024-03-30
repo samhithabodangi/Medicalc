@@ -1,6 +1,5 @@
 import React from "react";
 import {View, Text, StyleSheet, Image } from "react-native";
-import HorizontalRule from "./HorizontalRule";
 
 
 export default Header = () => {
@@ -11,7 +10,6 @@ export default Header = () => {
             <Text style={styles.name}>MediCalc</Text>
             
         </View>
-        <HorizontalRule/>
         </View>
     );
 }
